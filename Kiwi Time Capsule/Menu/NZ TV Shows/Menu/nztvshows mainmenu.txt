@@ -1,6 +1,6 @@
 <dir>
-<title>Movie Section</title>
+<title>KidZone24</title>
 <link>https://thechains24.com/ABSOLUTION/MOVIES/MAIN%20DIR.txt</link>
-<thumbnail>https://i.imgur.com/dFPpuQS.png</thumbnail>
-<fanart>https://i.imgur.com/GqkMiYJ.png</fanart>
+<thumbnail>https://i.postimg.cc/9FW8hhzz/image.png</thumbnail>
+<fanart>https://i.postimg.cc/9FW8hhzz/image.png</fanart>
 </dir>
