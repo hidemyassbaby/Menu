@@ -1,6 +1,7 @@
 <dir>
-<title>KidZone24</title>
-<link>https://thechains24.com/ABSOLUTION/MOVIES/MAIN%20DIR.txt</link>
+<title>Wiki The Kiwi/title>
+<link>https://raw.githubusercontent.com/hidemyassbaby/Menu/refs/heads/main/Kiwi%20Time%20Capsule/Menu/NZ%20TV%20Shows/KidZone24/Wiki%20the%20Kiwi/wiki%20the%20kiwi.txt</link>
+<summary>In a secret place, hidden beneath the shading leaves of the furry Pillow-Ponga tree, Wiki the small spotted Kiwi and his cousins the Brown Kiwis, all live happily together in their burrow, deep in the heart of the Fuzzy Forest. Like all Kiwis, Wiki only comes out to play in the shadows of the Fuzzy Forest, when the sun has gone down and the day has turned to night. Wiki, who is a bird but cannot fly together with his very best friend Brian the Bat who is not a bird, but who can fly make for a pair of very different friends who will take great care to guide your imaginations to a place where being different makes you the same and everything the same can seem to be different.</summary>
 <thumbnail>https://i.postimg.cc/9FW8hhzz/image.png</thumbnail>
 <fanart>https://i.postimg.cc/9FW8hhzz/image.png</fanart>
 </dir>
