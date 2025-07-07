@@ -1,6 +1,0 @@
-<dir>
-<title>Movie Section</title>
-<link>https://thechains24.com/ABSOLUTION/MOVIES/MAIN%20DIR.txt</link>
-<thumbnail>https://i.imgur.com/dFPpuQS.png</thumbnail>
-<fanart>https://i.imgur.com/GqkMiYJ.png</fanart>
-</dir>
