@@ -1,6 +1,0 @@
-<dir>
-<title>KidZone24</title>
-<link>https://github.com/hidemyassbaby/Menu/raw/refs/heads/main/Kiwi%20Time%20Capsule/Menu/NZ%20TV%20Shows/KidZone24/Kidzone24%20main%20menu/kidzone24%20menu.txt</link>
-<thumbnail>https://i.postimg.cc/9FW8hhzz/image.png</thumbnail>
-<fanart>https://i.postimg.cc/9FW8hhzz/image.png</fanart>
-</dir>
